@@ -2,17 +2,17 @@
 
 **Computer Science Graduate (LIU '26) | Full-Stack Engineer at Digilab Solutions**
 
-I am a software engineer focused on writing clean, readable, and maintainable code. I specialize in building scalable platforms, offline-first applications, and RESTful APIs, with a strong foundation in core Java, object-oriented programming, and SOLID principles. 
+I am a software engineer focused on writing clean, readable, and maintainable code. I specialize in building scalable platforms, offline-first applications, and RESTful APIs, with a strong foundation in core Java, object-oriented programming, and SOLID principles.
 
 ### 💻 Tech Stack
-* **Back-End & APIs:** Java, Node.js, Express.js, REST, WebSockets
-* **Front-End & Mobile:** React.js, React Native, Flutter, JavaScript, Dart
-* **Databases:** PostgreSQL, MySQL, SQLite
-* **Core Practices:** OOP, Data Structures & Algorithms, Agile/Scrum, Git
+* **Back-End & APIs:** Spring Boot (Java + Gradle), Node.js, Express.js
+* **Front-End & Mobile:** React (TypeScript), Flutter
+* **Databases:** MySQL (PostgreSQL)
+* **Core Practices:** OOP, Data Structures & Algorithms
 
 ### 🚀 What I'm Currently Working On
-* Building and maintaining an end-to-end platform and a cross-platform React Native app at **Digilab Solutions**.
-* Developing a custom headless architecture/integration for a **Shopify** client.
+* Pairing with a lead engineer on a side project built with a Spring Boot backend and React frontend.
+* Working within an agile team to build and maintain a web app (MySQL, Express, React, Node).
 * Sharpening my problem-solving skills daily with Java on **LeetCode** and **HackerRank**.
 
 ### 📫 Let's Connect
